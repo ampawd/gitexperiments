@@ -1,5 +1,4 @@
-555
-777
-8888
-anothernewline
-anothernewline2
+123
+345
+568
+anotherline
